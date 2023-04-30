@@ -1,1 +1,1 @@
-# 2023OSSL_teamproject
+# 2023OSSL_teamproject_Soyeon
